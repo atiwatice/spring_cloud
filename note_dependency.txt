@@ -1,0 +1,52 @@
+Spring cloud Get start
+1.Spring cloud config
+	Add @EnableConfigServer
+	
+	Lombok
+	Spring web
+	Config server
+	
+2.Spring access service
+	Lombok 
+	Spring web
+	Config client
+	spring-boot-configuration-processor
+	spring-cloud-starter-bootstrap
+	
+
+3.Spring micro service
+	Spring dev tool
+	Lombok
+	Spring data jpa
+	h2
+	Eureka Discovery client
+	Spring web
+	
+4.Spring enquiry service
+	Spring dev tool
+	Lombok
+	Eureka Discovery client
+	Spring web
+	OpenFeign
+	spring-cloud-starter-netflix-ribbon => error
+	spring-cloud-starter-loadbalancer
+
+5.Spring eureka naming server
+	Spring dev tool
+	Eureka server
+	Lombok
+
+
+6.Spring zuul api gateway
+	Spring dev tool
+	Spring web
+	Zuul
+	Eureka Discovery client
+	
+7.Spring cloud api gateway
+	Spring dev tool
+	gateway
+	Eureka Discovery client
+	
+8. Install rabbit mq
+	ลง erlang ไม่ได้

@@ -1,0 +1,14 @@
+#spring:
+#  application:
+#    name: property-access-service
+#  profiles:
+#    active: qa
+#management:
+#  endpoints:
+#    web:
+#      exposure:
+#        include: refresh
+##
+#server:
+#  port: ${port:8100}
+#    

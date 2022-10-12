@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: spring-cloud-config-server
+  profiles:
+    active: native
+
+  cloud:
+    config:
+      server:
+        native:
+          search-locations: file:M:\Code\Practise\spring-cloud-config\src\main\resources\config\
+server:
+  port: ${port:8888}
